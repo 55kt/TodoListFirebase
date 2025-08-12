@@ -10,3 +10,4 @@ GoogleService-Info.plist
 # macOS system files
 .DS_Store
 
+TodoList/Other/GoogleService-Info.plist
