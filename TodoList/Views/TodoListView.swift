@@ -49,5 +49,5 @@ struct TodoListView: View {
 }
 
 #Preview {
-    TodoListView(userId: "Z9ik8YBWTUU1Op3IF7oLSzsVcgT2")
+    TodoListView(userId: "") // paste real user id from firebase for preview
 }
